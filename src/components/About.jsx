@@ -10,7 +10,7 @@ const About = () => {
           <p className='text-slate-600 mt-8 leading-loose'>
             🎓 Currently pursuing a degree in Mechatronics Engineering at Mehran University with a track record of excellence, having completed Intermediate with an A1 grade.<br/>
 
-            💻 Proficient in MERN Stack, Next.js, Firebase, and skilled in leveraging GitHub for version control. Actively diving into the world of React Native with Firebase, driven by a passion for honing versatile development skills.<br/>
+            💻 Proficient in React, Next.js, Firebase, and skilled in leveraging GitHub for version control. Actively diving into the world of Express and Nodejs, driven by a passion for honing versatile development skills.<br/>
 
             🌟 Eager to contribute and learn, I'm currently undertaking online projects pro bono to craft a robust portfolio. My dedication and hard work fuel my growth as I aim to solidify my expertise.<br/>
 
