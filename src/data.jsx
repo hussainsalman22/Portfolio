@@ -41,7 +41,7 @@ export const projects = [
   {
     id: nanoid(),
     img: 'https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-    url: 'https://hussainsalman22.github.io/gym/',
+    url: 'https://gym-gdo0h1yav-hussains-projects-371eeca5.vercel.app/',
     github: 'https://github.com/hussainsalman22/gym/tree/main',
     title: 'GYM WEBSITE',
     text: 'Build a gym website with react and bootstrap.',
