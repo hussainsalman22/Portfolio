@@ -14,13 +14,13 @@ const Hero = () => {
             turning ideas into interactive reality
           </p>
           <div className='flex gap-x-4 mt-4'>
-            <a href='#'>
+            <a href='https://github.com/hussainsalman22'>
               <FaGithubSquare className='h-8 w-8 text-slate-500 hover:text-black duration-300' />
             </a>
-            <a href='#'>
+            <a href="https://www.linkedin.com/in/hussain-qureshi-58219b219/">
               <FaLinkedin className='h-8 w-8 text-slate-500 hover:text-black duration-300' />
             </a>
-            <a href='#'>
+            <a href=''>
               <FaTwitterSquare className='h-8 w-8 text-slate-500 hover:text-black duration-300' />
             </a>
           </div>
