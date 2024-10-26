@@ -40,20 +40,22 @@ export const projects = [
   },
   {
     id: nanoid(),
+    img: 'https://images.pexels.com/photos/439416/pexels-photo-439416.jpeg?auto=compress&cs=tinysrgb&w=600',
+    url: 'https://construction1-d6eaklg6l-hussains-projects-371eeca5.vercel.app/',
+    github: 'https://github.com/hussainsalman22/construction1.git',
+    title: 'Construction website',
+    text: 'construction website with nextjs and tailwind css',
+  },
+
+  {
+    id: nanoid(),
     img: 'https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
     url: 'https://gym-gdo0h1yav-hussains-projects-371eeca5.vercel.app/',
     github: 'https://github.com/hussainsalman22/gym/tree/main',
     title: 'GYM WEBSITE',
     text: 'Build a gym website with react and bootstrap.',
   },
-  {
-    id: nanoid(),
-    img: 'https://images.pexels.com/photos/301920/pexels-photo-301920.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-    url: 'https://react-quiz-app-beta-ten.vercel.app/',
-    github: 'https://github.com/hussainsalman22/React-quiz-app-4/tree/main',
-    title: 'React Quiz App',
-    text: 'Quiz app with react and tailwind css',
-  },
+  
   {
     id: nanoid(),
     img: 'https://images.pexels.com/photos/301920/pexels-photo-301920.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
